@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.doube.eu.org/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://json.doube.eu.org/logo/纯享4K.png" group-title="4K频道",纯享4K
-http://34.96.214.137:50001/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
-http://34.96.214.137:50001/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
-#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场4K.png" group-title="4K频道",SiTV欢笑剧场4K
-http://34.96.214.137:50001/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://json.doube.eu.org/logo/华数4K.png" group-title="4K频道",华数4K
-http://34.96.214.137:50001/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://json.doube.eu.org/logo/华数4K.png" group-title="4K频道",华数4K
-http://34.96.214.137:50001/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
 http://34.96.214.137:50001/TVOD/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
@@ -3399,3 +3389,13 @@ http://38.207.178.130:50001/TVOD/6306119848317438256/hnbblive/index.m3u8
 http://38.207.178.130:50001/TVOD/7766420291569067385/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="湖南频道",湖南娱乐
 http://38.207.178.130:50001/TVOD/6427893650335440392/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://json.doube.eu.org/logo/纯享4K.png" group-title="4K频道",纯享4K
+http://34.96.214.137:50001/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
+http://34.96.214.137:50001/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场4K.png" group-title="4K频道",SiTV欢笑剧场4K
+http://34.96.214.137:50001/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://json.doube.eu.org/logo/华数4K.png" group-title="4K频道",华数4K
+http://34.96.214.137:50001/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://json.doube.eu.org/logo/华数4K.png" group-title="4K频道",华数4K
+http://34.96.214.137:50001/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
